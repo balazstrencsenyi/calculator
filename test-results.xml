@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.003" tests="4" failures="0">
+  <testsuite name="Calculator" timestamp="2023-06-29T09:53:34" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Calculator" timestamp="2023-06-29T09:53:34" tests="4" file="/Users/trencsenyibalazs/Desktop/MAKEAWISH/calculator/test/app.test.js" time="0.002" failures="0">
+    <testcase name="returns zero" time="0.000" classname="Calculator returns zero">
+    </testcase>
+    <testcase name="calculates addition" time="0.000" classname="Calculator calculates addition">
+    </testcase>
+    <testcase name="calculates subtraction and multiplication" time="0.000" classname="Calculator calculates subtraction and multiplication">
+    </testcase>
+    <testcase name="calculates addition and multiplication" time="0.000" classname="Calculator calculates addition and multiplication">
+    </testcase>
+  </testsuite>
+</testsuites>
